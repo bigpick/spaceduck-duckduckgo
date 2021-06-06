@@ -16,6 +16,10 @@ With text-box on search results:
 
 ![text-box](./ddg_spaceduck_with_textbox.png)
 
+With hovering and text-box on search results:
+
+![textbox-and-hover](./ddg_spaceduck_textbox_hover.png)
+
 ## Install
 
 Do _**one**_ of the following:
